@@ -1,0 +1,24 @@
+{
+  "name": "easybit",
+  "version": "0.0.1",
+  "description": "Library for simple register and bit manipulations.",
+  "main": "src/easybit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BioBoost/easybit.git"
+  },
+  "keywords": [
+    "bit",
+    "manipulations",
+    "register"
+  ],
+  "author": "Nico De Witte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BioBoost/easybit/issues"
+  },
+  "homepage": "https://github.com/BioBoost/easybit#readme"
+}
